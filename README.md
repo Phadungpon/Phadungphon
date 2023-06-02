@@ -1,4 +1,3 @@
 ### 👋 Hi, I’m @Phadungpon
-👀 I’m interested in Flutter
-🌱 I’m currently learning Go Lang
+Experienced software developer with over 4 years of expertise in creating user-friendly mobile applications using Flutter. 😊 Passionate about app development and committed to delivering high-quality solutions. 💪
 
